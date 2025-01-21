@@ -1,0 +1,227 @@
+﻿Heracles,	G	mythic	Legendary Creature — Servant Berserker 	73	G	8GG	Haste, trample
+Heracles enters the battlefield with 12 Labor counters.
+If Heracles wold leave the battlefield remove a Labor counter instead.
+As long as Heracles, has a Labor counter he cannot be sacrificed.
+At the beginning of your upkeep you may pay X and put a labor counter on Heracles, where X is the number of labor counters on him minus 1.	10/10		normal	FTE		REPLACEMEPassionlip ,	UB	rare	Legendary Creature — Servant Alter Ego 	101	UB	4UB	Deathtouch, Flash
+If you would take damage from a source an opponent controls you may prevent that damage and have Passionlip take that damage instead
+Whenever Passionlip takes damage from a source an opponent controls its controller exiles that many cards from the top of their library	3/8		normal	FTE		REPLACEMENobunaga,	R	rare	Legendary Creature — Servant Archer 	67	R	2RR	First strike
+Whenever a creature an opponent controls attacks deal 1 damage to that creature and 1 damage to its controller.
+Whenever you cast a creature spell target creature an opponent controls must attack on their controllers next turn.	3/3		normal	FTE		REPLACEMEQuetzalcoatl,	G	mythic	Legendary Creature — Servant Rider 	75	RG	4G	Kicker 4RR
+When Quetzalcoatl enters the battlefield if she was kicked deal 20 damage to each other creature and each planeswalker.
+Your opponents cannot cast spells during your turn.	5/5		normal	FTE		REPLACEMERaikou,	R	mythic	Legendary Creature — Servant Berserker 	69	R	3RRR	Trample, first strike
+Whenever Raikou attacks, for each opponent create a token that is a copy of Raikou except they aren’t legendary that’s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat	6/6		normal	FTE		REPLACEMEQueen of Sheba	U	rare	Legendary Creature — Servant Caster 	29	U	4UU	When Queen of Sheba enters the battlefield create three 2/2 blue Djinn tokens
+Whenever a Djinn you control deals damage to a player create a treasure token.	2/2		normal	FTE		REPLACEMEDjinn	U	common	Token Token Creature — Djinn 	5	U			2/2		token	FTE		REPLACEMEJaguar Man	R	uncommon	Legendary Creature — Servant Lancer 	63	R	1R	Forestwalk, haste
+If you control a Forest Jaguar Man gets +1/+1.	2/1		normal	FTE		REPLACEMEBaobhan Sith, Tam Lin	UBR	rare	Legendary Creature — Servant Archer 	83	UBR	1UBR	Lifelink
+When Baobhan Sith, Tam Lin enters the battlefield create a token that is a copy of target creature an opponent controls except it is a 1/1 and has no abilities.
+Whenever a creature you control is destroyed, destroy all creatures with the same name that your opponents controls.	3/3		normal	FTE		REPLACEMEGorgon,	B	rare	Legendary Creature — Servant Avenger 	42	B	3BB	Deathtouch
+5BBB:Monstrosity 5
+When Gorgon becomes monstrous, tap all other creatures and place a stun counter on them, then destroy those creatures.
+As long as Gorgon is monstrous she has trample.	4/4		normal	FTE		REPLACEMEHeroic Spirit Summoning Ritual		uncommon	Sorcery	1	C	4	Search your deck for a servant creature card, put that card into your hand, then shuffle. Create a Command Seal.			normal	FTE		REPLACEMETamamo	U	rare	Legendary Creature — Servant Caster 	31	UR	1UU	XRR,T: Exile the top X cards of your library, you may cast cards exiled this way with mana value X or less until the end of the turn.	1/3		normal	FTE		REPLACEMEPassionlip, Love & Hate	B	rare	Legendary Creature — Servant Alter Ego 	51	B	3B	Whenever you lose life, Passionlip gets +1/+0 until the end of the turn.
+1B,T:Destroy target creature with power less than Passionlip’s power, activate only as a sorcery.	3/4		normal	FTE		REPLACEMEViolet, Purity	W	rare	Legendary Creature — Servant Alter Ego 	21	W	3W	The beginning of combat on your opponents turn, tap up to two target creatures that player controls. 	3/3		normal	FTE		REPLACEMEKingprotea, Yearning	G	rare	Legendary Creature — Servant Alter Ego 	74	G	2G	Trample
+At the beginning of each upkeep place a +1/+1 counter on Kingprotea.	1/1		normal	FTE		REPLACEMEKazuradrop, Affection	U	rare	Legendary Creature — Servant Alter Ego 	25	U	3U	U: Exile target creature you control, Kazuradrop, gains all activated abilities of that creature.	1/2		normal	FTE		REPLACEMEMeltryllis, Pleasure	R	rare	Legendary Creature — Servant Alter Ego 	65	R	3R	First strike
+Whenever one or more creatures an opponent controls take damage, Meltryllis gets +1/+1 until end of the turn.	3/3		normal	FTE		REPLACEMEBB, Rogue AI	WUBRG	mythic	Legendary Creature — Servant Moon Cancer 	85	WUBRG	1WUBRG	Indestructible, haste
+Whenever BB attacks phase her out.
+Whenever BB phases in search you may search your library for a creature and exile it.
+You may cast cards exiled by BB.
+Whenever you cast a creature from exile, it enters the battlefield with an indestructible counter on it.	5/5		normal	FTE		REPLACEMEThe Old Man of the Mountain	B	mythic	Legendary Creature — Servant Assassin 	32	B	4BBB	Creatures your opponents control lose hexproof, shroud and indestructible and can’t have or gain hexproof, shroud and indestructible.
+When “The Old Man of the Mountain” enters the battlefield destroy target creature.	6/6		normal	FTE		REPLACEMECommand Seal		common	Token Enchantment	2	C		Sacrifice Command Seal: Choose one—
+• The next creature you cast this turn may be cast as though it had flash.
+•Target creature gets haste and first strike
+•Target creature gets trample and vigilance 			token	FTE		REPLACEMEKoyanskya of Light	WB	mythic	Legendary Creature — Servant Assassin 	93	WB	2WB	W/B: Target opponent creates a treasure, then place an NFF counter on it.
+Whenever an opponent sacrifices a treasure, they lose 2 life if it had an NFF counter on it they lose 4 life instead, then you create a treasure token	3/3		normal	FTE		REPLACEMETreasure		common	Token Artifact — Treasure 	20	C		T, Sacrifice this artifact: Add one mana of any color. 			token	FTE		REPLACEMETreasure		common	Token Artifact — Treasure 	21	C		T, Sacrifice this artifact: Add one mana of any color. 			token	FTE		REPLACEMETamamo Cat	RG	uncommon	Legendary Creature — Servant Berserker 	107	RG	1RG	Trample
+When Tamamo Cat enters the battlefield create a food token.
+When you sacrifice a food place a +1/+1 counter on Tamamo Cat.	3/3		normal	FTE		REPLACEMEFood		common	Token Artifact — Food 	19	C		2, T, Sacrifice this artifact: You gain 3 life.			token	FTE		REPLACEMESaber Class	W	uncommon	Enchantment — Class 	16	W	2W			(Gain the next level as a sorcery to add its ability.)
+Creatures you control have vigilance.
+3W: Level 2
+During combat you may cast creature spells as though they had flash.
+4W: Level 3
+Creatures you control have hexproof.	class	FTE		REPLACEMEArcher Class	WG	uncommon	Enchantment — Class 	80	WG	1GW			(Gain the next level as a sorcery to add its ability.)
+When a creature you control attacks alone it gets +2/+2.
+GW: Level 2
+Untapped creature you control have ward 2.
+GW: Level 3
+Creatures you control have vigilance.	class	FTE		REPLACEMELancer Class	WR	uncommon	Enchantment — Class 	94	WR	RW			(Gain the next level as a sorcery to add its ability.
+Attacking creatures you control have ward 1.
+2R: Level 2
+Creatures you control have first strike.
+2W: Level 3
+0: Remove target creature you control from combat.	class	FTE		REPLACEMERider Class	G	uncommon	Enchantment — Class 	76	G	1G			(Gain the next level as a sorcery to add its ability.)
+Mount spells you cast cost 1 less to cast.
+2G: Level 2
+Tapped creature you control have ward 4.
+1G: Level 3
+Attacking creatures you control have trample.	class	FTE		REPLACEMECaster Class	U	uncommon	Enchantment — Class 	24	U	2U			(Gain the next level as a sorcery to add its ability.)
+Instant and sorcery spells you cast cost 1 less to cast.
+1U: Level 2
+U: Investigate (Create a Clue token. It’s an artifact with “2, Sacrifice this artifact: Draw a card.”)
+3U: Level 3
+At the beginning of your upkeep draw a card.	class	FTE		REPLACEMEAssassin Class	B	uncommon	Enchantment — Class 	34	B	1B			(Gain the next level as a sorcery to add its ability.)
+When a creature you control attacks alone it cannot be blocked.
+2B: Level 2
+Creatures you control have ward— Pay 1 life.
+3B: Level 3
+You may cast creature spells as though they have flash, if you do you lose 2 life.	class	FTE		REPLACEMEBerserker Class	R	uncommon	Enchantment — Class 	58	R	R			(Gain the next level as a sorcery to add its ability.)
+Creatures you control must attack if able. 
+1RR: Level 2
+Creatures you control have trample.
+5R: Level 3
+Creatures you control get +3/+3.	class	FTE		REPLACEMEAvenger Class	BR	rare	Enchantment — Class 	82	BR	BR			(Gain the next level as a sorcery to add its ability.)
+On each of their turns your opponents must attack you with at least one creature if able.
+2BR: Level 2
+At the beginning of your precombat main phase add BR.
+1BR: Level 3
+When a creature an opponent control deals combat damage to you put a +1/+1 counter on each creature you control.	class	FTE		REPLACEMERuler Class	WUG	rare	Enchantment — Class 	104	WUG	GWU			(Gain the next level as a sorcery to add its ability.)
+You have hexproof.
+1U: Level 2
+You may look at the the top card of your opponents libraries at any time.
+GW: Level 3
+1: Create a Command Seal token.	class	FTE		REPLACEMEBluebeard	B	uncommon	Legendary Creature — Servant Caster 	36	B	2B	BBB, Sacrifice 5 creatures with 1 or less power: Create a 10/10 black horror creature token with “B: Regenerate Horror”	2/2		normal	FTE		REPLACEMEHorror	B	common	Token Creature — Horror 	8	B		B: Regenerate Horror.	10/10		token	FTE		REPLACEMEClue		common	Token Artifact — Clue 	18	C		2, Sacrifice this artifact: Draw a card.			token	FTE		REPLACEMEThe Lion King	WUR	mythic	Legendary Creature — Servant Lancer 	95	WUR	2URW	Vigilance, ward 2
+When another creature you control deals combat damage to a player place a grail counter on it.
+U: Creatures with grail counters on them gains hexproof until the end of the turn.
+R: Creatures with grail counters on them get +1/+0 until the end of the turn.
+W:  Creatures with grail counters on them gains indestructible until the end of the turn.	5/5		normal	FTE		REPLACEMEScáthach	WBR	mythic	Legendary Creature — Servant Lancer 	105	WBR	4RWB	Ward 1, Deathtouch
+When Scáthach attacks exile all creatures with less power than Scáthach.	5/5		normal	FTE		REPLACEMEGate of Skye	W	mythic	Legendary Sorcery — Phantasm 	7	W	3WW	Choose a legendary creature, exile all other creatures.			normal	FTE		REPLACEMENero	R	rare	Legendary Creature — Servant Saber 	66	R	2RR	Haste
+When Nero enters the battlefield or attacks remove all rose counters from all creatures. Then place a rose counter on target creature.
+Nero gains all abilities of creatures with rose counters on them.	3/3		normal	FTE		REPLACEMEJason	WR	common	Legendary Creature — Servant Saber 	92	WR	3RW	At the beginning of your upkeep, choose one that hasn’t been chosen. Create a blue and green creature token with those characteristics.
+• 4/4 Berserker with trample and haste.
+• 2/2 Caster with lifelink.
+• 1/2 Archer with reach and “T:deal 1 damage to any target”.	3/3		normal	FTE		REPLACEMEBerserker	UG	common	Token Creature — Berserker 	14	UG		Trample, Haste	3/3		token	FTE		REPLACEMECaster	UG	common	Token Creature — Caster 	15	UG		Lifelink	2/2		token	FTE		REPLACEMETrace On	W	uncommon	Sorcery	20	W	W	Search your library for an Equipment card, reveal that card, put it into your hand, then shuffle.			normal	FTE		REPLACEMEIskandar	R	rare	Legendary Creature — Servant Rider 	62	R	4R	When Iskandar enters and at the beginning of your upkeep amass Red Soldiers 2.
+Army creatures you control have trample.	4/4		normal	FTE		REPLACEMESoldier Army	R	common	Token Creature — Soldier Army 	12	R			0/0		token	FTE		REPLACEMEJack the Ripper	B	uncommon	Legendary Creature — Servant Assassin 	47	B	2B	Flash
+If it’s neither day nor night, it becomes day as Jack the Ripper enters the battlefield.
+Maria the Ripper — T: Destroy target creature, activate this ability only if it is night, and only as a sorcery.	2/2		normal	FTE		REPLACEMENightingale	W	uncommon	Legendary Creature — Servant Berserker 	13	W	1WW	Lifelink
+WWW, T: Prevent all combat damage that would be dealt this turn. 	3/2		normal	FTE		REPLACEMELeonidas I	W	uncommon	Legendary Creature — Servant Lancer 	10	W	1W	W: Leonidas can block an additional two hundred ninety-nine creatures each combat until the end of the turn.
+Whenever a creature would deal damage to Leonidas, prevent all but one of that damage.	1/4		normal	FTE		REPLACEMEArcher	UG	common	Token Creature — Archer 	13	UG		Reach
+T:Deal 1 damage to any target.	1/2		token	FTE		REPLACEMEAvicebron	U	uncommon	Legendary Creature — Servant Caster 	23	U	3U	3U: Create a 3/3 blue artifact creature golem.	2/2		normal	FTE		REPLACEMEGolem	U	common	Token Artifact Creature — Golem 	6	U			3/3		token	FTE		REPLACEMEOkita	R	rare	Legendary Creature — Servant Saber 	68	R	4R	Double strike
+When Okita becomes blocked, deal damage equal to Okita’s power to target creature blocking Oktia.	3/3		normal	FTE		REPLACEMEMartha	W	uncommon	Legendary Creature — Servant Rider 	12	W	4W	Lifelink
+When Martha enters the battlefield create Tarasque, a legendary 6/6 red Dragon Turtle creature token with trample.	2/3		normal	FTE		REPLACEMETarasque	R	common	Token Legendary Creature — Dragon Turtle 	16	R		Trample	6/6		token	FTE		REPLACEMESima Yi,	W	uncommon	Legendary Creature — Servant Rider 	18	W	2WW	During combat on your turn creatures your opponents control lose all abilities.	3/3		normal	FTE		REPLACEMEAltera	R	mythic	Legendary Creature — Servant Saber 	56	R	4RR	When Altera attacks destroy target artifact the defending player controls for each +1/+1 counter on Altera, then place a +1/+1 counter on Altera.
+When Altera deals damage to an opponent that controls no artifacts deals damage to that player equal to her power.	4/4		normal	FTE		REPLACEMETeardrop Photon Ray	R	rare	Legendary Sorcery	71	R	RRR	Destroy target land. 
+If that land was nonbasic, Teardrop Photon Ray deals 10 damage to target creature.			normal	FTE		REPLACEMERobin Hood	G	common	Legendary Creature — Servant Archer 	77	G	2GG	Toxic 2, reach
+When Robin deals damage to a creature with a -1/-1 counter on it, destroy it.
+T: Robin Hood deals 1 damage to target creature.	2/4		normal	FTE		REPLACEMEGareth	WU	common	Legendary Creature — Servant Lancer 	91	WU	3WU	First strike
+2WUU, Reveal a creature card from your hand: Until the end of the turn Gareth has the name and activated abilities of the revealed creature.	4/4		normal	FTE		REPLACEMEMana Burst	R	common	Enchantment — Aura Skill 	64	WR	1R	Enchant creatrure
+R:Enchanted creature gets +1/+0 until end of turn.
+W:Enchanted creature gets +0/+1 until end of turn.			normal	FTE		REPLACEMEInstinct	W	uncommon	Enchantment — Aura Skill 	8	W	1W	Flash
+Enchant creatrure
+Sacrifice Instinct: Counter target spell that is targeting enchanted creature.			normal	FTE		REPLACEMECharisma	W	common	Enchantment — Aura Skill 	6	W	WW	Enchant creature
+When enchanted creature attacks defending player may tap a creature they control, if they do, you and that player each draw a card.			normal	FTE		REPLACEMELord Camelot	W	rare	Legendary Instant	11	W	WW	Prevent all damage that would be dealt to you and permanents you control until the end of the turn, and those permanents gain indestructible until the end of the turn.			normal	FTE		REPLACEMEZouken	B	uncommon	Legendary Creature — Human 	55	B	1BBB	At the beginning of your upkeep create a 1/1 black Insect creature token with flying.
+B, Sacrifice an insect creature and a non-insect creature: Return Zouken from your graveyard to the battlefield.	1/4		normal	FTE		REPLACEMEBlood Fort Andromeda	B	rare	Legendary Enchantment	35	B	3BB	All creatures get -1/-1.
+Whenever one or more creatures die put a charge counter on Blood Fort Andromeda.
+Remove a charge counter from Blood Fort Andromeda: Add B. 			normal	FTE		REPLACEMEDark Sakura	BR	common	Legendary Creature — Human 	88	BR	2BBR	When a creature is destroyed you may pay BBB, if you do return that creature from the graveyard to the battlefield under your control. That creature is black.
+When a creature enters the battlefield from the graveyard you may pay R. If you do that creature gains haste until the end of the turn.	4/4		normal	FTE		REPLACEMEAlter Saber	B	rare	Legendary Creature — Servant Saber 	33	B	4BB	Vigilance, first strike
+B: Alter Saber gets +1/+0 until the end of the turn.
+If Alter Saber has 10 or more power she has trample.	5/5		normal	FTE		REPLACEMEShadow Giant	B	common	Creature — Elemental 	53	B	2BBB	At the beginning of your upkeep you may pay B. If you do put a +1/+1 counter on Shadow Giant.	6 /6		normal	FTE		REPLACEMEShadow's Influence	B	uncommon	Enchantment	54	B	3BB	Whenever a creature dies you may add B and lose 1 life.			normal	FTE		REPLACEMEShinji, False Attendent	R	common	Legendary Creature — Human 	70	BR	R	Servant creatures you control get -1/-0.
+When Shinji, False Attendent dies add BB.	1/1		normal	FTE		REPLACEMEDark Incarnation	B	rare	Sorcery	40	B	1B	Put target legendary creature from a graveyard onto the battlefield under your control. That creature is black.			normal	FTE		REPLACEMEHassan of the Serenity	B	uncommon	Legendary Creature — Servant Assassin 	46	B	2BB	Deathtouch
+Zabaniya— When Hassan of the Serenity enters put a -1/-1 counter on up to three target creatures.
+At the beginning of your end step place a -1/-1 counter on each creature that has one already. 	1/3		normal	FTE		REPLACEMEMountian		common	Basic Land — Mountain 	123	C					normal	FTE		REPLACEMECrest Worm	B	common	Creature — Insect 	39	B	B	Whenever Crest Worm deals damage, you may sacrifice it. If you do add BB. Until end of turn, you don’t lose this mana as steps and phases end.	1/1		normal	FTE		REPLACEMESwamp		common	Basic Land — Swamp 	126	C					normal	FTE		REPLACEMEIsland		common	Basic Land — Island 	125	C					normal	FTE		REPLACEMEForest		common	Basic Land — Forest 	127	C					normal	FTE		REPLACEMEPlains		common	Basic Land — Plains 	124	C					normal	FTE		REPLACEMEElizabeth, Ego Servant	B	uncommon	Legendary Creature — Servant Berserker 	41	B	3B	Lifelink
+When Elizabeth, Ego Servant dies return her to the battlefield transformed and enchanting target creature.	3/3		transform double faced	FTE		Elizabeth the Melt Virus	B	Enchantment — Aura 	B		At the beginning of your upkeep, put a -1/-1 counter on enchanted creature.
+When enchanted creature dies, return Elizabeth the Melt Virus, to the battlefield.				REPLACEMEAlter Ego Class	UR	common	Enchantment — Class 	79	UR	1UR			(Gain the next level as a sorcery to add its ability.)
+When Alter Ego Class enters search your library for a creature that shares a creature type and color with a creature you control then exile it and shuffle.
+1UR: Level 2
+2UR: Create a token that is a copy of a creature exiled with Alter Ego Class.
+5UR: Level 3
+High Servant	class	FTE		REPLACEMEMoon Cancer Class	WUBRG	common	Enchantment — Class 	98	WUBRG	WUBRG			(Gain the next level as a sorcery to add its ability.)
+​
+ Level 2
+cvbdfg
+ Level 3
+dsfssd	class	FTE		REPLACEMEMeltryllis	B	uncommon	Legendary Creature — Servant Alter Ego 	48	B	B		1/1	Whenever a creature dies put a level counter on Meltryllis.
+[level 3-15] Trample
+[level 15+] Trample
+Meltryllis gets +1/+1 for each level counter on it.	leveler	FTE		REPLACEMEMara, The Third Beast	BR	mythic	Legendary Planeswalker — Mara 	96	BR	3BR			[+1]: Goad up to one target creature.
+[-1]: Each creature target opponent controls, deals one damage to its controller.
+[-4]: For each opponent, create a token that is a copy of Mara except it’s not legendary and has 2 loyalty counters on it.	planeswalker	FTE	5	REPLACEMENine Lives Blade Works	W	common	Instant	14	W	1WW	Destroy target attacking creature.
+When you cast this spell copy it eight times targeting the same creature.			normal	FTE		REPLACEMEJeanne,	W	rare	Legendary Creature — Servant Ruler 	9	W	3WW	Jeanne,  has hexproof as long as she is untapped.
+WW, T, Exert Jeanne: Prevent all damage that would be dealt to you and creatures you control this turn. (An exerted creature won’t untap during your next untap step.)	4/4		normal	FTE		REPLACEMEBarghest, Tam Lin	RG	common	Legendary Creature — Servant Saber 	84	RG	4RG	Trample
+Barghest must block attacking creatures with less power than hers.
+Whenever a creature with less power than Barghest dies create a 1/1 Red Dog token creature.
+At the beginning of your end step if no creatures died since your last turn put a +1/+1 counter on Barghest, then if she has 5 or more +1/+1 counters place +1/+1 counters equal to her power on her and she loses this ability.	5/5		normal	FTE		REPLACEMEDog	R	common	Token Creature — Dog 	10	R			1/1		token	FTE		REPLACEMEGolden Rule	R	common	Enchantment — Aura Skill 	60	R	R	Enchant Creature
+Whenever enchanted creature deals combat damage create a treasure.			normal	FTE		REPLACEMEArmored Dragon, Tarasque	R	rare	Legendary Creature — Dragon Turtle Mount 	57	R	4R	Trample
+Whenever Armored Dragon, Tarasque attacks while saddled, you may sacrifice it to deal damage equal to its power to target creature or planeswalker. 
+Saddle 5
+You may tap a Rider creature you control instead of paying Armored Dragon, Tarasque’s saddle cost.
+	7/7		normal	FTE		REPLACEMEDiarmuid Ua Duibhne	G	uncommon	Legendary Creature — Servant Lancer 	72	G	2GG	First strike
+Gáe Dearg — Whenever Diarmuid Ua Duibhne attacks destroy target artifact.
+Gáe Buidhe — Whenever Diarmuid Ua Duibhne deals damage you may put a -1/-1 on target creature.  	3/3		normal	FTE		REPLACEMEHassan of the Hundred Faces	B	common	Legendary Creature — Servant Assassin 	45	B	1BB	Flash, first strike
+Zabaniya— Your deck my contain any number of cards named “Hassan of the Hundred Faces”.
+The “legend rule” doesn’t apply to creatures named “Hassan of the Hundred Faces”.	2/2		normal	FTE		REPLACEMEHassan of the Hundred Faces	B	common	Legendary Creature — Servant Assassin 	44	B	3BB	Flash, first strike
+Zabaniya— At the beginning of your upkeep create a token that is a copy of Hassan of the Hundred Faces.
+The “legend rule” doesn’t apply to creatures named “Hassan of the Hundred Faces”.	2/2		normal	FTE		REPLACEMEHassan of the Cursed Arm	B	uncommon	Legendary Creature — Servant Assassin 	43	B	B	Flash
+Zabaniya—  B: Destroy target creature Hassan of the Cursed Arm has dealt damage to this turn.	1/4		normal	FTE		REPLACEMEMysterious Heroine X	WB	uncommon	Legendary Creature — Servant Assassin 	99	WB	3WB	Double strike
+When Mysterious Heroine X enters destroy target Saber creature.
+Players can’t cast Saber spells.	4/4		normal	FTE		REPLACEMESeigfried	WR	uncommon	Legendary Creature — Servant Saber 	106	WR	3RW	As long as Seigfried is untapped he has indestructible.
+When Seigfried attacks destroy up to one target Dragon creature, then deal damage equal to that creatures power to any target.	3/5		normal	FTE		REPLACEMEAoko, Witch	U	mythic	Legendary Creature — Human Wizard 	22	UR	4UUU	When Aoko, Witch enters the battlefield if she was cast from your hand take an extra turn after this one.
+At the beginning of your upkeep, if the last turn was your turn exile Aoko, Witch and return her to the battlefield transformed.	3/3		transform double faced	FTE		Aoko, Redshifted	UR	Legendary Planeswalker — Aoko 	UR				At the beginning of your upkeep if it wasn’t your turn last turn exile Aoko, Redshifted and return her to the battlefield.
+[+1]: Aoko, Redshifted deals damage to any target equal the number of card in your hand.
+[0]: Exile any number of cards from the top of your library then put that many loyalty counters on Aoko, Redshifted.
+[-10]: Take an extra turn after this one.
+[-10]: Take an extra turn after this one.	3	REPLACEMEPersonal Skill		common	Sorcery	3	C	3	Search your library for a skill card, you may cast that card from your library for its mana value reduced by 3, if you don’t put it into your hand, then shuffle.			normal	FTE		REPLACEMESeventeen Dissection	B	uncommon	Instant	52	B	BB	Destroy target creature. It can’t be regenerated. You lose 2 life.			normal	FTE		REPLACEMEMagic Resistance	U	uncommon	Enchantment — Aura Skill 	26	U	2U	Enchant creature.
+Enchanted creature has protection from instants. (This permanent can’t be targeted or dealt damage by instants..)			normal	FTE		REPLACEMEMisty Night Murder	B	common	Instant	50	B	1B	It becomes night. Until end of the turn prevent all combat damage that  would be dealt this turn.			normal	FTE		REPLACEMENeco-Arc, Planeswalker	WUBRG	mythic	Legendary Planeswalker — Neco-Arc 	100	WUBRG	WUBRG			[+2]: Reveal the top card of your library, then do one of the following based on the mana value —
+• 0: Gain 5 life.
+• 1: Create a 1/1 White Cat Vampire creature token.
+• 2: Destroy up to one target creature.
+• 3: Goad up to one target creature.
+• 4+: Draw a card.
+[-4]: Search your library for a card, then search for 5 cards with mana value 2 or less. Exile those cards. Choose one of them at random, you may play that card without paying its mana cost. Then shuffle.	planeswalker	FTE	5	REPLACEMEPretender Class	U	uncommon	Enchantment — Class 	28	U	1U			(Gain the next level as a sorcery to add its ability.)
+3: Place a creature from your hand onto the battlefield face down as a 2/2 servant creature.
+2U: Level 2
+When a face down creature you control is targeted by a source you don’t control return it to your hand.
+U: Level 3
+2: Turn a face down servant you control face up.	class	FTE		REPLACEMEFunny Vamp Class	WB	rare	Enchantment — Class 	78	WB	WB			(Gain the next level as a sorcery to add its ability.)
+BB: Regenerate target creature.
+2WB: Level 2
+When this class Becomes level 2, return target creature from your graveyard to the battlefield.
+2WB: Level 3
+When this class Becomes level 3, choose one creature then destroy all others.	class	FTE		REPLACEMEThe Whore of Babylon	UBR	mythic	Legendary Planeswalker — Draco 	109	UBR	4UBR			[+2]: Create a 5/5 Red Dragon creature token.
+[-1]: Choose target creature, its controller may choose to have you gain control of it, if they don’t exile that creature. 
+[-7]: Each player draws 5 cards. For each opponent who does you control them during their next turn. 	planeswalker	FTE	5	REPLACEMEDragon	R	common	Token Creature — Dragon 	11	R			5/5		token	FTE		REPLACEMERitsuka, Humanity's Last Master	W	mythic	Legendary Creature — Human 	15	WUBRG	3W	WUBRG, T: Search your library for 3 servant creatures. Choose one of those creatures, then choose one at random. if both cards chosen are the same you may cast it without paying its mana cost. otherwise put one of the cards into you hand. Shuffle the remaining cards into your library.	2/2		normal	FTE		REPLACEMERin	U	rare	Legendary Creature — Human Wizard 	30	U	3U	Partner with EMIYA (When this creature enters, target player may put EMIYA into their hand from their library, then shuffle.)
+Whenever a nontoken artifact enters the battlefield create a Treasure token.	2/2		normal	FTE		REPLACEMEEMIYA	R	rare	Legendary Creature — Servant Archer 	59	R	4R	Partner with Rin (When this creature enters, target player may put Rin into their hand from their library, then shuffle.)
+Reach
+Artifact spells you cast cost 1 less to cast.
+Whenever an artifact enters under your control deal 1 damage to any target.	4/4		normal	FTE		REPLACEMEEreshkagal	WB	common	Legendary Creature — Servant Lancer 	89	WB	2WB	Whenever a creature you control deals combat damage to a player place a Kur counter on them.
+Whenever a creature with a Kur counter on them is destroyed, return it to the battlefield tapped.	3/3		normal	FTE		REPLACEMEComposite Deity Gorgon	B	mythic	Legendary Creature — Avenger Servant 	38	WBG	3BB	Whenever a creature dies you may pay B/GW/B and create a 2/2 Black Demon Creature token.
+Disturb 6WBG (You may cast this card from your graveyard transformed for its disturb cost.)	5/5		transform double faced	FTE		Tiamat, Goddess of Beginning		Legendary Planeswalker — Tiamat 	WBG				Indestructible
+When the last loyalty counter is removed from Tiamat, create a 20/20 Black, Green and White Legendary Dragon God creature token named Tiamat with Trample and Indestructible.   
+[-1]: Destroy up to one target creature then then create a 4/4 Black  Horror creature token.
+[-1]: Until end of turn, whenever you tap a land for mana, add one mana of any type that land produced. 	6	REPLACEMETiamat	WBG	common	Token Legendary Creature — Dragon God 	17	WBG		Indestructible, Trample	20/20		token	FTE		REPLACEMEDemon	B	common	Token Creature — Demon 	7	B			2/2		token	FTE		REPLACEMEHorror	B	common	Token Creature — Horror 	9	B			4/4		token	FTE		REPLACEMEThe Bunny King	WUR	common	Legendary Creature — Servant Ruler 	86	WUR	2URW	Vigilance
+URW, T: The Bunny King gains flying until the end of turn, then each player shuffles their hand into their library and then draws 5 cards.	4/5		normal	FTE		REPLACEMEArcueid	WBG	common	Legendary Creature — Vamprie Avatar 	81	WBG	3WBG	Trample
+BG: Regenerate Arcueid.
+Arcueid’s power is equal to the number of untapped lands you control.
+When Arcueid attacks, tap any number of creatures up to the number of tapped lands you control.	*/6		normal	FTE		REPLACEMERider's Catalyst		common	Artifact	120	C	1	1, T: Look at the top 6 cards of your library, you may reveal a Rider Servant from among them, if you do sacrifice Rider’s Catalyst and put that card into your hand. Then put the rest on the bottom of your library in a random order.			normal	FTE		REPLACEMELancer's Catalyst		common	Artifact	118	C	1	1, T: Look at the top 6 cards of your library, you may reveal a Lancer Servant from among them, if you do sacrifice Lancer’s Catalyst and put that card into your hand. Then put the rest on the bottom of your library in a random order.			normal	FTE		REPLACEMEArcher's Catalyst		common	Artifact	110	C	1	1, T: Look at the top 6 cards of your library, you may reveal an Archer Servant from among them, if you do sacrifice Archer’s Catalyst and put that card into your hand. Then put the rest on the bottom of your library in a random order.			normal	FTE		REPLACEMESaber's Catalyst		common	Artifact	122	C	1	1, T: Look at the top 6 cards of your library, you may reveal an Saber Servant from among them, if you do sacrifice Saber’s Catalyst and put that card into your hand. Then put the rest on the bottom of your library in a random order.			normal	FTE		REPLACEMEThe Mooncell		common	Legendary Artifact	119	C	7	Whenever another player draws a card, attacks with a creature, or casts a spell place a record counter on The Mooncell.
+X, Remove X record counters from the The Mooncell: Draw X cards.			normal	FTE		REPLACEMEVlov	BR	rare	Legendary Creature — Elder Vamprie  Knight 	108	UBR	4BBR	First strike
+When Vlov attacks deal 1 damage to each creature defending player controls.
+When Vlov dies, return him transformed.	5/5		transform double faced	FTE		Vlov	UB	Legendary Creature — Elder Vamprie  Knight  	UBR		Vigilance, trample
+Creatures your opponents control get -3/-1.
+Whenever you attack each creature defending player controls doesn’t untap during its controllers next untap step.	6/6			REPLACEMEz		common		4	C					transform double faced	FTE					C						REPLACEMEFlaming Dead	BR	common	Creature — Zombie 	90	BR	BR	When Flaming Dead dies deal 2 damage to any target then lose 1 life. 	3/1		normal	FTE		REPLACEMECanine Familiar	B	common	Creature — Zombie Dog 	37	B	3B	Lifelink
+When Canine Familiar deals combat damage to a player you may put a +1/+1 counter on another target creature you control.	3/3		normal	FTE		REPLACEMEMetastasis	B	common	Creature — Zombie Spider 	49	B	3BB	Flash, reach, trample
+When Metastasis enters target creature gets -2/-2 until the end of the turn.	6/6		normal	FTE		REPLACEMEPresence Concealment	UB	common	Enchantment — Aura Skill 	102	UB	UB	Enchant Creature
+Enchanted creature can not be blocked.
+as long as enchanted creature is untapped it has Ward—Pay 3 life. (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)			normal	FTE		REPLACEMEDay		common		3	C		
+As it becomes day, transform all nightbound permanents.
+If a player casts no spells during their own turn, it becomes night next turn.			token	FTE		REPLACEMENight		common		4	C		As it becomes night, transform all daybound permanents.
+
+Permanents enter the battlefield nightbound.
+
+If a player casts at least two spells during their own turn, it becomes day next turn.			token	FTE		REPLACEMEAssassin's Catalyst		common	Artifact	111	C	1	1, T: Look at the top 6 cards of your library, you may reveal a Assassin Servant from among them, if you do sacrifice Assassin’s Catalyst and put that card into your hand. Then put the rest on the bottom of your library in a random order.			normal	FTE		REPLACEMECaster's Catalyst		common	Artifact	115	C	1	1, T: Look at the top 6 cards of your library, you may reveal a Caster Servant from among them, if you do sacrifice Caster’s Catalyst and put that card into your hand. Then put the rest on the bottom of your library in a random order.			normal	FTE		REPLACEMEBerserker's Catalyst		common	Artifact	112	C	1	1, T: Look at the top 6 cards of your library, you may reveal a Berserker Servant from among them, if you do sacrifice Berserker’s Catalyst and put that card into your hand. Then put the rest on the bottom of your library in a random order.			normal	FTE		REPLACEMEMedea	U	rare	Legendary Creature — Caster Servant 	27	U	4U	Ward 3
+Whenever you tap a land for mana you may have target creature get -2/-0 until the end of the turn.	3/2		normal	FTE		REPLACEMEHigh Speed Divine Words		common	Enchantment	2	C	5	You may cast Sorcery spells anytime you may cast an instant.
+You may spend mana to cast instant and sorcery as though it were mana of any color.			normal	FTE		REPLACEMERule-Breaker		common	Artifact — Equipment 	121	C	6	Whenever equipped creature deals combat damage to a creature you may take control of that creature.
+Whenever equipped creature deals combat damage to a player they choose a creature they control, gain control of that creature. 
+Equip 6			normal	FTE		REPLACEMEIshtar	R	rare	Legendary Creature — Archer Servant 	61	R	4RR	Flying
+Whenever you cast a spell place a charge counters on Ishtar equal to the amount of R spent to cast it.
+RRR: Destroy target mountain you control, Ishtar deals damage to each other creature equal to the number of charge counters on Ishtar, then remove all charge counters from her.  	5/4		normal	FTE		REPLACEMESoujuurou	W	uncommon	Legendary Creature — Human 	19	W	2W	Vigilance, first strike
+When Soujuurou deals damage to an attacking creature, exile that creature and Soujuurou.	2/2		normal	FTE		REPLACEMERin	UR	mythic	Legendary Creature — Human Wizard 	103	UR	1UR	Treasures you control gain “T, Sacrifice this artifact: Deal 1 damage to any target.”
+If you have at least 1 untapped land at the beginning of your end step, create a treasure token. 	2/3		normal	FTE		REPLACEMEArtoria	W	rare	Legendary Creature — Servant Saber 	5	W	2W	Partner with Shirou
+First strike
+Whenever Artoria is targeted by an ability you control untap Artoria.
+Artoria doesn’t untap during your untap step.	5/5		normal	FTE		REPLACEMEShirou	W	rare	Legendary Creature — Human Wizard 	17	W	WW	Partner with Artoria
+T: Target creature gets +1/+1 until the end of turn.
+As long as you control a creature named Artoria Shirou has indestructible.	1/2		normal	FTE		REPLACEMEGolden Apple		common	Artifact — Food 	117	C	2	Whenever you sacrifice Golden Apple, Put 5 +1/+1 counters on target creature you control then at the beginning of your end step target opponent gains control of that creature.
+2, T, Sacrifice Golden Apple: You gain 3 life and draw a card.			normal	FTE		REPLACEMEBlack Keys		common	Artifact — Equipment 	113	C	2	Equipped creature has first strike.
+Unattach Black Keys: Black Keys deals 2 damage to any target. 
+Equip 1			normal	FTE		REPLACEMECiel	WU	rare	Legendary Creature — Human Cleric 	87	WU	2WU	First strike, Vigilance
+You may cast Ciel from exile.
+When Ciel dies return her to the battlefield at the beginning of the next end step.	2/2		normal	FTE		REPLACEMEBreaker Gorgan		common	Artifact — Equipment 	114	C	1	Equipped creature get +0/+1.
+2, Sacrifice Breaker Gorgan:Search your library for an instant card, reveal that card, put it into your hand, then shuffle. Activate only if Breaker Gorgan is attached to a creature.
+Equip 1			normal	FTE		REPLACEMEChrysaor Monstrous Golden Blade		common	Artifact — Equipment 	116	C	2	Whenever equipped creature attacks create a 3/3 Beast token that is tapped and attacking then exile. Exile the tokens at end of combat.  
+Equip 3			normal	FTE		REPLACEMEBeast		common	Token Creature — Beast 	1	C			3/3		token	FTE		REPLACEMEMedusa	WG	rare	Legendary Creature — Saber Servant 	97	WG	3GW	Vigilance
+When Medusa attacks place a shield counter or tap target creature.
+Prevent damage that would be dealt to Beast creatures you control.	4/5		normal	FTE		REPLACEME

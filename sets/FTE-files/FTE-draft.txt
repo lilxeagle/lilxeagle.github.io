@@ -1,0 +1,1518 @@
+﻿[CustomCards]
+	[	{
+			"name": "Heracles,",
+			"rarity": "mythic",
+			"mana_cost": "{8}{G}{G}",
+			"type": "Legendary Creature — Servant Berserker ",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/73_Heracles,.png"
+			}
+		},
+		{
+			"name": "Passionlip ,",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Creature — Servant Alter Ego ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/101_Passionlip ,.png"
+			}
+		},
+		{
+			"name": "Nobunaga,",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Servant Archer ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/67_Nobunaga,.png"
+			}
+		},
+		{
+			"name": "Quetzalcoatl,",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}",
+			"type": "Legendary Creature — Servant Rider ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/75_Quetzalcoatl,.png"
+			}
+		},
+		{
+			"name": "Raikou,",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Legendary Creature — Servant Berserker ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/69_Raikou,.png"
+			}
+		},
+		{
+			"name": "Queen of Sheba",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Servant Caster ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/29_Queen of Sheba.png"
+			}
+		},
+		{
+			"name": "Djinn",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Token Creature — Djinn ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/5_Djinn.png"
+			}
+		},
+		{
+			"name": "Jaguar Man",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Servant Lancer ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/63_Jaguar Man.png"
+			}
+		},
+		{
+			"name": "Baobhan Sith, Tam Lin",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Legendary Creature — Servant Archer ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/83_Baobhan Sith, Tam Lin.png"
+			}
+		},
+		{
+			"name": "Gorgon,",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Servant Avenger ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/42_Gorgon,.png"
+			}
+		},
+		{
+			"name": "Heroic Spirit Summoning Ritual",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/1_Heroic Spirit Summoning Ritual.png"
+			}
+		},
+		{
+			"name": "Tamamo",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Servant Caster ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/31_Tamamo.png"
+			}
+		},
+		{
+			"name": "Passionlip, Love & Hate",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Servant Alter Ego ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/51_Passionlip, Love & Hate.png"
+			}
+		},
+		{
+			"name": "Violet, Purity",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Servant Alter Ego ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/21_Violet, Purity.png"
+			}
+		},
+		{
+			"name": "Kingprotea, Yearning",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Servant Alter Ego ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/74_Kingprotea, Yearning.png"
+			}
+		},
+		{
+			"name": "Kazuradrop, Affection",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Servant Alter Ego ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/25_Kazuradrop, Affection.png"
+			}
+		},
+		{
+			"name": "Meltryllis, Pleasure",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Servant Alter Ego ",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/65_Meltryllis, Pleasure.png"
+			}
+		},
+		{
+			"name": "BB, Rogue AI",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Servant Moon Cancer ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/85_BB, Rogue AI.png"
+			}
+		},
+		{
+			"name": "The Old Man of the Mountain",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Legendary Creature — Servant Assassin ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/32_The Old Man of the Mountain.png"
+			}
+		},
+		{
+			"name": "Command Seal",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/2_Command Seal.png"
+			}
+		},
+		{
+			"name": "Koyanskya of Light",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Servant Assassin ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/93_Koyanskya of Light.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/20_Treasure.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/21_Treasure.png"
+			}
+		},
+		{
+			"name": "Tamamo Cat",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Servant Berserker ",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/107_Tamamo Cat.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/19_Food.png"
+			}
+		},
+		{
+			"name": "Saber Class",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Class ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/16_Saber Class.png"
+			}
+		},
+		{
+			"name": "Archer Class",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Enchantment — Class ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/80_Archer Class.png"
+			}
+		},
+		{
+			"name": "Lancer Class",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Enchantment — Class ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/94_Lancer Class.png"
+			}
+		},
+		{
+			"name": "Rider Class",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Class ",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/76_Rider Class.png"
+			}
+		},
+		{
+			"name": "Caster Class",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Class ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/24_Caster Class.png"
+			}
+		},
+		{
+			"name": "Assassin Class",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Class ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/34_Assassin Class.png"
+			}
+		},
+		{
+			"name": "Berserker Class",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Class ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/58_Berserker Class.png"
+			}
+		},
+		{
+			"name": "Avenger Class",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Enchantment — Class ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/82_Avenger Class.png"
+			}
+		},
+		{
+			"name": "Ruler Class",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Enchantment — Class ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/104_Ruler Class.png"
+			}
+		},
+		{
+			"name": "Bluebeard",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Servant Caster ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/36_Bluebeard.png"
+			}
+		},
+		{
+			"name": "Horror",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Horror ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/8_Horror.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/18_Clue.png"
+			}
+		},
+		{
+			"name": "The Lion King",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}{W}",
+			"type": "Legendary Creature — Servant Lancer ",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/95_The Lion King.png"
+			}
+		},
+		{
+			"name": "Scáthach",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{W}{B}",
+			"type": "Legendary Creature — Servant Lancer ",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/105_Scáthach.png"
+			}
+		},
+		{
+			"name": "Gate of Skye",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Sorcery — Phantasm ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/7_Gate of Skye.png"
+			}
+		},
+		{
+			"name": "Nero",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Servant Saber ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/66_Nero.png"
+			}
+		},
+		{
+			"name": "Jason",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Servant Saber ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/92_Jason.png"
+			}
+		},
+		{
+			"name": "Berserker",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Berserker ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/14_Berserker.png"
+			}
+		},
+		{
+			"name": "Caster",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Caster ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/15_Caster.png"
+			}
+		},
+		{
+			"name": "Trace On",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/20_Trace On.png"
+			}
+		},
+		{
+			"name": "Iskandar",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Legendary Creature — Servant Rider ",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/62_Iskandar.png"
+			}
+		},
+		{
+			"name": "Soldier Army",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier Army ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/12_Soldier Army.png"
+			}
+		},
+		{
+			"name": "Jack the Ripper",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Servant Assassin ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/47_Jack the Ripper.png"
+			}
+		},
+		{
+			"name": "Nightingale",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Servant Berserker ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/13_Nightingale.png"
+			}
+		},
+		{
+			"name": "Leonidas I",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Servant Lancer ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/10_Leonidas I.png"
+			}
+		},
+		{
+			"name": "Archer",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Archer ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/13_Archer.png"
+			}
+		},
+		{
+			"name": "Avicebron",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Servant Caster ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/23_Avicebron.png"
+			}
+		},
+		{
+			"name": "Golem",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Golem ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/6_Golem.png"
+			}
+		},
+		{
+			"name": "Okita",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Legendary Creature — Servant Saber ",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/68_Okita.png"
+			}
+		},
+		{
+			"name": "Martha",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Creature — Servant Rider ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/12_Martha.png"
+			}
+		},
+		{
+			"name": "Tarasque",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Creature — Dragon Turtle ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/16_Tarasque.png"
+			}
+		},
+		{
+			"name": "Sima Yi,",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Servant Rider ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/18_Sima Yi,.png"
+			}
+		},
+		{
+			"name": "Altera",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Servant Saber ",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/56_Altera.png"
+			}
+		},
+		{
+			"name": "Teardrop Photon Ray",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Legendary Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/71_Teardrop Photon Ray.png"
+			}
+		},
+		{
+			"name": "Robin Hood",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Servant Archer ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/77_Robin Hood.png"
+			}
+		},
+		{
+			"name": "Gareth",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Creature — Servant Lancer ",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/91_Gareth.png"
+			}
+		},
+		{
+			"name": "Mana Burst",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura Skill ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/64_Mana Burst.png"
+			}
+		},
+		{
+			"name": "Instinct",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura Skill ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/8_Instinct.png"
+			}
+		},
+		{
+			"name": "Charisma",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Enchantment — Aura Skill ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/6_Charisma.png"
+			}
+		},
+		{
+			"name": "Lord Camelot",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Legendary Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/11_Lord Camelot.png"
+			}
+		},
+		{
+			"name": "Zouken",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/55_Zouken.png"
+			}
+		},
+		{
+			"name": "Blood Fort Andromeda",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/35_Blood Fort Andromeda.png"
+			}
+		},
+		{
+			"name": "Dark Sakura",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}{R}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/88_Dark Sakura.png"
+			}
+		},
+		{
+			"name": "Alter Saber",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Servant Saber ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/33_Alter Saber.png"
+			}
+		},
+		{
+			"name": "Shadow Giant",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Creature — Elemental ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/53_Shadow Giant.png"
+			}
+		},
+		{
+			"name": "Shadow's Influence",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/54_Shadow's Influence.png"
+			}
+		},
+		{
+			"name": "Shinji, False Attendent",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/70_Shinji, False Attendent.png"
+			}
+		},
+		{
+			"name": "Dark Incarnation",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/40_Dark Incarnation.png"
+			}
+		},
+		{
+			"name": "Hassan of the Serenity",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Servant Assassin ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/46_Hassan of the Serenity.png"
+			}
+		},
+		{
+			"name": "Mountian",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/123_Mountian.png"
+			}
+		},
+		{
+			"name": "Crest Worm",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/39_Crest Worm.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/126_Swamp.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/125_Island.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/127_Forest.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/124_Plains.png"
+			}
+		},
+		{
+			"name": "Elizabeth, Ego Servant",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Servant Berserker ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/41_Elizabeth, Ego Servant_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://lilxeagle.github.io/sets/FTE-files/img/41_Elizabeth, Ego Servant_back.png"
+				}
+			}
+		},
+		{
+			"name": "Alter Ego Class",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Enchantment — Class ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/79_Alter Ego Class.png"
+			}
+		},
+		{
+			"name": "Moon Cancer Class",
+			"rarity": "common",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Enchantment — Class ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/98_Moon Cancer Class.png"
+			}
+		},
+		{
+			"name": "Meltryllis",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Servant Alter Ego ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/48_Meltryllis.png"
+			}
+		},
+		{
+			"name": "Mara, The Third Beast",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Planeswalker — Mara ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/96_Mara, The Third Beast.png"
+			}
+		},
+		{
+			"name": "Nine Lives Blade Works",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/14_Nine Lives Blade Works.png"
+			}
+		},
+		{
+			"name": "Jeanne,",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Servant Ruler ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/9_Jeanne,.png"
+			}
+		},
+		{
+			"name": "Barghest, Tam Lin",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Legendary Creature — Servant Saber ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/84_Barghest, Tam Lin.png"
+			}
+		},
+		{
+			"name": "Dog",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Dog ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/10_Dog.png"
+			}
+		},
+		{
+			"name": "Golden Rule",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura Skill ",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/60_Golden Rule.png"
+			}
+		},
+		{
+			"name": "Armored Dragon, Tarasque",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Legendary Creature — Dragon Turtle Mount ",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/57_Armored Dragon, Tarasque.png"
+			}
+		},
+		{
+			"name": "Diarmuid Ua Duibhne",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Servant Lancer ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/72_Diarmuid Ua Duibhne.png"
+			}
+		},
+		{
+			"name": "Hassan of the Hundred Faces",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Servant Assassin ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/45_Hassan of the Hundred Faces.png"
+			}
+		},
+		{
+			"name": "Hassan of the Hundred Faces",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Servant Assassin ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/44_Hassan of the Hundred Faces.png"
+			}
+		},
+		{
+			"name": "Hassan of the Cursed Arm",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Servant Assassin ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/43_Hassan of the Cursed Arm.png"
+			}
+		},
+		{
+			"name": "Mysterious Heroine X",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Servant Assassin ",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/99_Mysterious Heroine X.png"
+			}
+		},
+		{
+			"name": "Seigfried",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Servant Saber ",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/106_Seigfried.png"
+			}
+		},
+		{
+			"name": "Aoko, Witch",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}{U}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/22_Aoko, Witch_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://lilxeagle.github.io/sets/FTE-files/img/22_Aoko, Witch_back.png"
+				}
+			}
+		},
+		{
+			"name": "Personal Skill",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/3_Personal Skill.png"
+			}
+		},
+		{
+			"name": "Seventeen Dissection",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/52_Seventeen Dissection.png"
+			}
+		},
+		{
+			"name": "Magic Resistance",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura Skill ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/26_Magic Resistance.png"
+			}
+		},
+		{
+			"name": "Misty Night Murder",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/50_Misty Night Murder.png"
+			}
+		},
+		{
+			"name": "Neco-Arc, Planeswalker",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Planeswalker — Neco-Arc ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/100_Neco-Arc, Planeswalker.png"
+			}
+		},
+		{
+			"name": "Pretender Class",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Class ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/28_Pretender Class.png"
+			}
+		},
+		{
+			"name": "Funny Vamp Class",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Enchantment — Class ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/78_Funny Vamp Class.png"
+			}
+		},
+		{
+			"name": "The Whore of Babylon",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{B}{R}",
+			"type": "Legendary Planeswalker — Draco ",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/109_The Whore of Babylon.png"
+			}
+		},
+		{
+			"name": "Dragon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Dragon ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/11_Dragon.png"
+			}
+		},
+		{
+			"name": "Ritsuka, Humanity's Last Master",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/15_Ritsuka, Humanity's Last Master.png"
+			}
+		},
+		{
+			"name": "Rin",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/30_Rin.png"
+			}
+		},
+		{
+			"name": "EMIYA",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Legendary Creature — Servant Archer ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/59_EMIYA.png"
+			}
+		},
+		{
+			"name": "Ereshkagal",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Servant Lancer ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/89_Ereshkagal.png"
+			}
+		},
+		{
+			"name": "Composite Deity Gorgon",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Avenger Servant ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/38_Composite Deity Gorgon_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://lilxeagle.github.io/sets/FTE-files/img/38_Composite Deity Gorgon_back.png"
+				}
+			}
+		},
+		{
+			"name": "Tiamat",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Creature — Dragon God ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/17_Tiamat.png"
+			}
+		},
+		{
+			"name": "Demon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Demon ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/7_Demon.png"
+			}
+		},
+		{
+			"name": "Horror",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Horror ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/9_Horror.png"
+			}
+		},
+		{
+			"name": "The Bunny King",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{R}{W}",
+			"type": "Legendary Creature — Servant Ruler ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/86_The Bunny King.png"
+			}
+		},
+		{
+			"name": "Arcueid",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{B}{G}",
+			"type": "Legendary Creature — Vamprie Avatar ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/81_Arcueid.png"
+			}
+		},
+		{
+			"name": "Rider's Catalyst",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/120_Rider's Catalyst.png"
+			}
+		},
+		{
+			"name": "Lancer's Catalyst",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/118_Lancer's Catalyst.png"
+			}
+		},
+		{
+			"name": "Archer's Catalyst",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/110_Archer's Catalyst.png"
+			}
+		},
+		{
+			"name": "Saber's Catalyst",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/122_Saber's Catalyst.png"
+			}
+		},
+		{
+			"name": "The Mooncell",
+			"rarity": "common",
+			"mana_cost": "{7}",
+			"type": "Legendary Artifact",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/119_The Mooncell.png"
+			}
+		},
+		{
+			"name": "Vlov",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}{R}",
+			"type": "Legendary Creature — Elder Vamprie  Knight ",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/108_Vlov_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://lilxeagle.github.io/sets/FTE-files/img/108_Vlov_back.png"
+				}
+			}
+		},
+		{
+			"name": "z",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/4_z_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://lilxeagle.github.io/sets/FTE-files/img/4_z_back.png"
+				}
+			}
+		},
+		{
+			"name": "Flaming Dead",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Zombie ",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/90_Flaming Dead.png"
+			}
+		},
+		{
+			"name": "Canine Familiar",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie Dog ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/37_Canine Familiar.png"
+			}
+		},
+		{
+			"name": "Metastasis",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Zombie Spider ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/49_Metastasis.png"
+			}
+		},
+		{
+			"name": "Presence Concealment",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Enchantment — Aura Skill ",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/102_Presence Concealment.png"
+			}
+		},
+		{
+			"name": "Day",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/3_Day.png"
+			}
+		},
+		{
+			"name": "Night",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/4_Night.png"
+			}
+		},
+		{
+			"name": "Assassin's Catalyst",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/111_Assassin's Catalyst.png"
+			}
+		},
+		{
+			"name": "Caster's Catalyst",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/115_Caster's Catalyst.png"
+			}
+		},
+		{
+			"name": "Berserker's Catalyst",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/112_Berserker's Catalyst.png"
+			}
+		},
+		{
+			"name": "Medea",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Legendary Creature — Caster Servant ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/27_Medea.png"
+			}
+		},
+		{
+			"name": "High Speed Divine Words",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Enchantment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/2_High Speed Divine Words.png"
+			}
+		},
+		{
+			"name": "Rule-Breaker",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/121_Rule-Breaker.png"
+			}
+		},
+		{
+			"name": "Ishtar",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Archer Servant ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/61_Ishtar.png"
+			}
+		},
+		{
+			"name": "Soujuurou",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/19_Soujuurou.png"
+			}
+		},
+		{
+			"name": "Rin",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/103_Rin.png"
+			}
+		},
+		{
+			"name": "Artoria",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Servant Saber ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/5_Artoria.png"
+			}
+		},
+		{
+			"name": "Shirou",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/17_Shirou.png"
+			}
+		},
+		{
+			"name": "Golden Apple",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Food ",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/117_Golden Apple.png"
+			}
+		},
+		{
+			"name": "Black Keys",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/113_Black Keys.png"
+			}
+		},
+		{
+			"name": "Ciel",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/87_Ciel.png"
+			}
+		},
+		{
+			"name": "Breaker Gorgan",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/114_Breaker Gorgan.png"
+			}
+		},
+		{
+			"name": "Chrysaor Monstrous Golden Blade",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/116_Chrysaor Monstrous Golden Blade.png"
+			}
+		},
+		{
+			"name": "Beast",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Beast ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/1_Beast.png"
+			}
+		},
+		{
+			"name": "Medusa",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Creature — Saber Servant ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTE-files/img/97_Medusa.png"
+			}
+		},
+		]
+	
