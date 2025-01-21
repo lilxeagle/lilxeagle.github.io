@@ -1,0 +1,193 @@
+﻿[CustomCards]
+	[	{
+			"name": "Arcane Signet",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/4_Arcane Signet.png"
+			}
+		},
+		{
+			"name": "Blood Crypt",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/6_Blood Crypt.png"
+			}
+		},
+		{
+			"name": "Command Tower",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/9_Command Tower.png"
+			}
+		},
+		{
+			"name": "Feed the Swarm",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/2_Feed the Swarm.png"
+			}
+		},
+		{
+			"name": "Luxury Suite",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/12_Luxury Suite.png"
+			}
+		},
+		{
+			"name": "Sol Ring",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/5_Sol Ring.png"
+			}
+		},
+		{
+			"name": "Tainted Peak",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/17_Tainted Peak.png"
+			}
+		},
+		{
+			"name": "Vampiric Tutor",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/3_Vampiric Tutor.png"
+			}
+		},
+		{
+			"name": "Dark Ritual",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/1_Dark Ritual.png"
+			}
+		},
+		{
+			"name": "Godless Shrine",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/10_Godless Shrine.png"
+			}
+		},
+		{
+			"name": "Hallowed Fountian",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Island ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/11_Hallowed Fountian.png"
+			}
+		},
+		{
+			"name": "Stomping Ground",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/16_Stomping Ground.png"
+			}
+		},
+		{
+			"name": "Temple Garden",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Plains ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/18_Temple Garden.png"
+			}
+		},
+		{
+			"name": "Breeding Pool",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Island ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/8_Breeding Pool.png"
+			}
+		},
+		{
+			"name": "Overgrown Tomb",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/13_Overgrown Tomb.png"
+			}
+		},
+		{
+			"name": "Sacred Foundry",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/14_Sacred Foundry.png"
+			}
+		},
+		{
+			"name": "Steam Vents",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Mountain ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/15_Steam Vents.png"
+			}
+		},
+		{
+			"name": "Watery Grave",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/19_Watery Grave.png"
+			}
+		},
+		{
+			"name": "Bountiful Prominade",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/7_Bountiful Prominade.png"
+			}
+		},
+		]
+	
