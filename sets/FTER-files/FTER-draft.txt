@@ -64,9 +64,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "17",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/FTER-files/img/17_Tainted Peak.png"
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/22_Tainted Peak.png"
 			}
 		},
 		{
@@ -114,9 +114,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest ",
-			"collector_number": "16",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/FTER-files/img/16_Stomping Ground.png"
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/21_Stomping Ground.png"
 			}
 		},
 		{
@@ -124,9 +124,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Forest Plains ",
-			"collector_number": "18",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/FTER-files/img/18_Temple Garden.png"
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/23_Temple Garden.png"
 			}
 		},
 		{
@@ -144,9 +144,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest ",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/FTER-files/img/13_Overgrown Tomb.png"
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/14_Overgrown Tomb.png"
 			}
 		},
 		{
@@ -154,9 +154,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains ",
-			"collector_number": "14",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/FTER-files/img/14_Sacred Foundry.png"
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/16_Sacred Foundry.png"
 			}
 		},
 		{
@@ -164,9 +164,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Island Mountain ",
-			"collector_number": "15",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/FTER-files/img/15_Steam Vents.png"
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/20_Steam Vents.png"
 			}
 		},
 		{
@@ -174,19 +174,99 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Island Swamp ",
-			"collector_number": "19",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/FTER-files/img/19_Watery Grave.png"
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/27_Watery Grave.png"
 			}
 		},
 		{
-			"name": "Bountiful Prominade",
+			"name": "Bountiful Promenade",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/FTER-files/img/7_Bountiful Prominade.png"
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/7_Bountiful Promenade.png"
+			}
+		},
+		{
+			"name": "Sea of Clouds",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/17_Sea of Clouds.png"
+			}
+		},
+		{
+			"name": "Spectator Seating",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/18_Spectator Seating.png"
+			}
+		},
+		{
+			"name": "Training Grounds",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/24_Training Grounds.png"
+			}
+		},
+		{
+			"name": "Undergrowth Stadium",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/25_Undergrowth Stadium.png"
+			}
+		},
+		{
+			"name": "Vault of Champions",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/26_Vault of Champions.png"
+			}
+		},
+		{
+			"name": "Rejuvenating Springs",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/15_Rejuvenating Springs.png"
+			}
+		},
+		{
+			"name": "Morphic Pool",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/13_Morphic Pool.png"
+			}
+		},
+		{
+			"name": "Spire Garden",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/FTER-files/img/19_Spire Garden.png"
 			}
 		},
 		]
