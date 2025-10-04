@@ -1,0 +1,133 @@
+﻿[CustomCards]
+	[	{
+			"name": "Persona, Jack Frost",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/2_Persona, Jack Frost.png"
+			}
+		},
+		{
+			"name": "Skirk, Void Star",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Alien Warrior ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/12_Skirk, Void Star.png"
+			}
+		},
+		{
+			"name": "Void Rift",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/1_Void Rift.png"
+			}
+		},
+		{
+			"name": "Makoto Yuki, S.E.E.S Leader",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/10_Makoto Yuki, S.E.E.S Leader.png"
+			}
+		},
+		{
+			"name": "Persona, Jack-O-Lanturn",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/5_Persona, Jack-O-Lanturn.png"
+			}
+		},
+		{
+			"name": "Persona, Orpheus",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/1_Persona, Orpheus.png"
+			}
+		},
+		{
+			"name": "Joker",
+			"rarity": "common",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Legendary Creature — Human Rebel ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/9_Joker.png"
+			}
+		},
+		{
+			"name": "Nahabino",
+			"rarity": "common",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Legendary Creature — Demigod Warrior ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/11_Nahabino.png"
+			}
+		},
+		{
+			"name": "The Demi-Fiend",
+			"rarity": "common",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Legendary Creature — Human Demon ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/6_The Demi-Fiend.png"
+			}
+		},
+		{
+			"name": "E-Endure",
+			"rarity": "common",
+			"mana_cost": "{G}{U}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/7_E-Endure.png"
+			}
+		},
+		{
+			"name": "Hook Office Rampage",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/8_Hook Office Rampage.png"
+			}
+		},
+		{
+			"name": "Olga, Molar Office Fixer",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Fixer ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/4_Olga, Molar Office Fixer.png"
+			}
+		},
+		{
+			"name": "Gebura, The Red Mist",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Fixer ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/3_Gebura, The Red Mist.png"
+			}
+		},
+		]
+	
