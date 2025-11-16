@@ -4,9 +4,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "5",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/LAB-files/img/5_Persona, Jack Frost.png"
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/10_Persona, Jack Frost.png"
 			}
 		},
 		{
@@ -14,9 +14,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Alien Warrior ",
-			"collector_number": "23",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/LAB-files/img/23_Skirk, Void Star.png"
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/37_Skirk, Void Star.png"
 			}
 		},
 		{
@@ -34,9 +34,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Legendary Creature — Human ",
-			"collector_number": "19",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/LAB-files/img/19_Makoto Yuki, S.E.E.S Leader.png"
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/32_Makoto Yuki, S.E.E.S Leader.png"
 			}
 		},
 		{
@@ -44,9 +44,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "9",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/LAB-files/img/9_Persona, Jack-O-Lanturn.png"
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/17_Persona, Jack-O-Lanturn.png"
 			}
 		},
 		{
@@ -54,9 +54,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/LAB-files/img/3_Persona, Orpheus.png"
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/4_Persona, Orpheus.png"
 			}
 		},
 		{
@@ -64,19 +64,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{B}{R}",
 			"type": "Legendary Creature — Human Rebel ",
-			"collector_number": "17",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/LAB-files/img/17_Joker, Phantom Thief.png"
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/30_Joker, Phantom Thief.png"
 			}
 		},
 		{
 			"name": "The Nahabino",
-			"rarity": "common",
+			"rarity": "mythic",
 			"mana_cost": "{3}{W}{U}{B}",
 			"type": "Legendary Creature — Demigod Warrior ",
-			"collector_number": "20",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/LAB-files/img/20_The Nahabino.png"
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/33_The Nahabino.png"
 			}
 		},
 		{
@@ -84,9 +84,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Legendary Creature — Human Demon ",
-			"collector_number": "12",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/LAB-files/img/12_The Demi-Fiend.png"
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/22_The Demi-Fiend.png"
 			}
 		},
 		{
@@ -94,9 +94,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}{U}",
 			"type": "Instant",
-			"collector_number": "14",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/LAB-files/img/14_E-Endure.png"
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/24_E-Endure.png"
 			}
 		},
 		{
@@ -104,9 +104,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "16",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/LAB-files/img/16_Hook Office Rampage.png"
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/29_Hook Office Rampage.png"
 			}
 		},
 		{
@@ -114,9 +114,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Fixer ",
-			"collector_number": "8",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/LAB-files/img/8_Olga, Molar Office Fixer.png"
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/16_Olga, Molar Office Fixer.png"
 			}
 		},
 		{
@@ -124,9 +124,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Human Fixer ",
-			"collector_number": "7",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/LAB-files/img/7_Gebura, The Red Mist.png"
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/15_Gebura, The Red Mist.png"
 			}
 		},
 		{
@@ -134,15 +134,15 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Horror Hero ",
-			"collector_number": "21",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/LAB-files/img/21_The Queen of Hatred_front.png"
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/34_The Queen of Hatred_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://lilxeagle.github.io/sets/LAB-files/img/21_The Queen of Hatred_back.png"
+					"en": "https://lilxeagle.github.io/sets/LAB-files/img/34_The Queen of Hatred_back.png"
 				}
 			}
 		},
@@ -151,9 +151,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{R}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "6",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/LAB-files/img/6_Arcana Slave.png"
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/14_Arcana Slave.png"
 			}
 		},
 		{
@@ -161,9 +161,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Creature — Human Performer ",
-			"collector_number": "4",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/LAB-files/img/4_Furina de Fontaine.png"
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/6_Furina de Fontaine.png"
 			}
 		},
 		{
@@ -201,9 +201,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Ranger ",
-			"collector_number": "10",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/LAB-files/img/10_Beastmaster Hunter.png"
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/19_Beastmaster Hunter.png"
 			}
 		},
 		{
@@ -211,9 +211,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature",
-			"collector_number": "2",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/LAB-files/img/2_New Adventurer.png"
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/3_New Adventurer.png"
 			}
 		},
 		{
@@ -221,9 +221,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{U}{B}",
 			"type": "Legendary Creature — Horror  Knight ",
-			"collector_number": "18",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/LAB-files/img/18_The Knight of Despair.png"
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/31_The Knight of Despair.png"
 			}
 		},
 		{
@@ -241,9 +241,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Warlock ",
-			"collector_number": "13",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/LAB-files/img/13_Demonology Warlock.png"
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/23_Demonology Warlock.png"
 			}
 		},
 		{
@@ -251,9 +251,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Warlock ",
-			"collector_number": "11",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/LAB-files/img/11_Affliction Warlock.png"
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/20_Affliction Warlock.png"
 			}
 		},
 		{
@@ -271,9 +271,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Creature — Cleric ",
-			"collector_number": "22",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/LAB-files/img/22_Shadow Priest.png"
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/36_Shadow Priest.png"
 			}
 		},
 		{
@@ -281,9 +281,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "15",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/LAB-files/img/15_Freikugel.png"
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/27_Freikugel.png"
 			}
 		},
 		{
@@ -291,9 +291,149 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Cleric ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/2_Discipline Priest.png"
+			}
+		},
+		{
+			"name": "Third Eye",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/5_Third Eye.png"
+			}
+		},
+		{
+			"name": "All-Out Attack",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/21_All-Out Attack.png"
+			}
+		},
+		{
+			"name": "Persona, Arahabaki",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/9_Persona, Arahabaki.png"
+			}
+		},
+		{
+			"name": "Persona, Slime",
+			"rarity": "uncommon",
+			"mana_cost": "{0}",
+			"type": "Enchantment — Aura ",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://lilxeagle.github.io/sets/LAB-files/img/1_Discipline Priest.png"
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/1_Persona, Slime.png"
+			}
+		},
+		{
+			"name": "Doom",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/12_Doom.png"
+			}
+		},
+		{
+			"name": "Blood Death Knight",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Warlock Knight ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/11_Blood Death Knight.png"
+			}
+		},
+		{
+			"name": "Feral Druid",
+			"rarity": "common",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Druid ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/25_Feral Druid.png"
+			}
+		},
+		{
+			"name": "Flandre Scarlet",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Vampire Noble ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/26_Flandre Scarlet.png"
+			}
+		},
+		{
+			"name": "Koakuma, Library Assistant",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Demon ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/7_Koakuma, Library Assistant.png"
+			}
+		},
+		{
+			"name": "Hong Meiling",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Spirit Monk ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/28_Hong Meiling.png"
+			}
+		},
+		{
+			"name": "Patchouli Knowledge",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Spirit Wizard ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/8_Patchouli Knowledge.png"
+			}
+		},
+		{
+			"name": "Sakuya Izayoi, Head Maid",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Human Assaassin ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/35_Sakuya Izayoi, Head Maid.png"
+			}
+		},
+		{
+			"name": "Remilia Scarlet, Scarlet Devil",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Legendary Creature — Vampire Noble ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/18_Remilia Scarlet, Scarlet Devil.png"
+			}
+		},
+		{
+			"name": "Rumia, Darkness Youkai",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Spirit ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://lilxeagle.github.io/sets/LAB-files/img/13_Rumia, Darkness Youkai.png"
 			}
 		},
 		]
